@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { Catch, ExceptionFilter, ArgumentsHost, HttpException, HttpStatus } from "@nestjs/common";
 import { HttpAdapterHost, AbstractHttpAdapter } from "@nestjs/core";
 
